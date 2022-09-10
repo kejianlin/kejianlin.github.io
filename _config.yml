@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: web前端_前端面试_技术博客_柯建林
 subtitle:
-description:
-keywords:
-author: JianLin Ke
-language: en
-timezone:
+description: 【柯建林】前端开发个人技术博客
+keywords: web前端,前端面试,Vue框架,uni-app框架,微信小程序,柯建林
+author: Jianlin Ke
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://kejianlin.top
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -74,6 +74,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: yilia
+
+archive: 1
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

@@ -9,11 +9,11 @@ subnav:
   github: "https://github.com/kejianlin"
   # weibo: "#"
   # rss: "#"
-  zhihu: "https://www.zhihu.com/people/kejianlin"
+  #zhihu: "https://www.zhihu.com/people/kejianlin"
   #qq: "#"
   # weixin: "#"
   #jianshu: "#"
-  douban: "https://www.douban.com/people/kejianlin"
+  #douban: "https://www.douban.com/people/kejianlin"
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
@@ -22,6 +22,8 @@ subnav:
   #google: "#"
   #twitter: "#"
   #linkedin: "#"
+  #stackoverflow: "https://stackoverflow.com/users/12535690/jianlin-ke"
+
 
 rss: /atom.xml
 
@@ -45,7 +47,7 @@ open_in_new: false
 # 打赏type设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
 reward_type: 1
 # 打赏wording
-reward_wording: '谢谢你请我吃软饭'
+reward_wording: '大爷，行行好，赏口饭吃'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
 alipay: /assets/img/Alipay.jpg
 # 微信二维码图片地址
@@ -91,11 +93,11 @@ changyan_conf: false
 disqus: false
 
 #5、Gitment
-gitment_owner: false      #你的 GitHub ID
-gitment_repo: ''          #存储评论的 repo
+gitment_owner: '37947124'      #你的 GitHub ID
+gitment_repo: 'git@github.com:kejianlin/kejianlin.git'          #存储评论的 repo
 gitment_oauth:
-  client_id: ''           #client ID
-  client_secret: ''       #client secret
+  client_id: 'db35464de13be17c0ee4'           #client ID
+  client_secret: '0a8b49c4f8bbf42e485b6f20cca7f17104d89dc6'       #client secret
 
 # 样式定制 - 一般不需要修改，除非有很强的定制欲望…
 style:
