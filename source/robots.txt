@@ -9,5 +9,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://kejianlin.top/sitemap.xml
-Sitemap: https://kejianlin.top/baidusitemap.xml
+Sitemap: https://www.kejianlin.top/sitemap.xml
+Sitemap: https://www.kejianlin.top/baidusitemap.xml
