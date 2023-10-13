@@ -17,11 +17,11 @@ subnav:
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
-  #mail: "mailto:litten225@qq.com"
+  #mail: "kejianlin400@gmail.com"
   #facebook: "#"
   #google: "#"
-  #twitter: "#"
-  #linkedin: "#"
+  twitter: "https://twitter.com/kejianlin"
+  linkedin: "https://www.linkedin.com/in/jianlin-ke-98a647253"
   #stackoverflow: "https://stackoverflow.com/users/12535690/jianlin-ke"
 
 
@@ -120,6 +120,13 @@ smart_menu:
   innerArchive: '所有文章'
   # friends: '友链'
   aboutme: '关于我'
+
+symbols_count_time:
+  separated_meta: true
+  item_text_post: true
+  item_text_total: true
+  awl: 4
+  wpm: 275
 
 friends:
   # 友情链接1: http://localhost:4000/
