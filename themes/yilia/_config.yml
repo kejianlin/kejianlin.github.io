@@ -116,10 +116,10 @@ slider:
 # 如不需要，将该对应项置为false
 # 比如
 #smart_menu:
-friends: true
+# friends: false
 smart_menu:
   innerArchive: '所有文章'
-  friends: '我的链接'
+  friends: '链接'
   aboutme: '关于我'
 
 symbols_count_time:
@@ -130,7 +130,7 @@ symbols_count_time:
   wpm: 275
 
 friends:
-  我的人生蓝图: https://naotu.baidu.com/file/c23c350e3bd65eecb614a58eecf6bce5
+  人生蓝图: https://naotu.baidu.com/file/c23c350e3bd65eecb614a58eecf6bce5
   # 友情链接2: http://localhost:4000/
   # 友情链接3: http://localhost:4000/
   # 友情链接4: http://localhost:4000/
